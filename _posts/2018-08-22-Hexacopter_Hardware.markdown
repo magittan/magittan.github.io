@@ -19,15 +19,15 @@ The hardware involved with creating the frame:
 **Modular Hexacopter Add-Ons to facilitate carrying equipment and carrying batteries.**
 
 {:refdef: style="text-align: center;"}
-![My Image](/static/assembly_1.png)
+![My Image](/static/Hexacopter_Hardware/assembly_1.png)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![My Image](/static/assembly_2.png)
+![My Image](/static/Hexacopter_Hardware/assembly_2.png)
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![My Image](/static/assembly_3.png)
+![My Image](/static/Hexacopter_Hardware/assembly_3.png)
 {: refdef}
 
 Setting up the hardware:
