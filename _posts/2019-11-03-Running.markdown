@@ -20,9 +20,9 @@ Running into Riverside Park, sometimes I wonder who can resist running further:
 ![png](/static/Running/20190323_185945.jpg)
 {: refdef}
 
-I decided to follow the philosophy of running as far as you can in one direction then forcing yourself to run back. Running down this highway wide path to around 100th street, there is this tunnel that goes under the Henry Hudson Parkway and gives access to the Hudson River Greenway (an idyllic path that runs along the river both up and down).
+I decided to follow the philosophy of running as far as you can in one direction then forcing yourself to run back. Starting at 116th Street and running down this highway wide path to around 100th street, there is this tunnel that goes under the Henry Hudson Parkway and gives access to the Hudson River Greenway (an idyllic path that runs along the river both up and down).
 
-__Going Up:__
+__Going Up the Greenway:__
 
 Running uptown you immediately encounter cherry walk, a path lined with cherry blossom trees that are incredibly scenic during the spring time. Up this way, a run along the Greenway will take you along the soccer fields along Riverside and up to the West Harlem Piers where the first thing that will catch your eye is this out of place ship called the IX-514 USS Baylander.
 
@@ -48,7 +48,7 @@ Finally entering Fort Washington Park, I discovered something really interesting
 
 Someday, I'll try to run to New Jersey over the GWB, but for now this is the farthest that I've gone up.
 
-__Going Down:__
+__Going Down the Greenway:__
 
 This is going to be a summary since there are so many things to see going down, but one of the things that I really wanted to do freshman year was to run to battery park and back and while I was running I realized just how amazingly scenic it is. Going down you pass by:
 
@@ -75,7 +75,7 @@ This is going to be a summary since there are so many things to see going down, 
 - Museum of Jewish Heritage
 - Battery Park!
 
-It would be insane to try to describe all these amazing places along this just around 9 mile stretch down the West Side but it is an amazing run. One of my favorite places (and my happy place) is Linda's Lawn. Apparently, it is named Linda's Lawn since [Linda](https://www.nycgovparks.org/parks/riverside-park/highlights/19601) was key in allowing for the development of Riverside Park South and reduced the size of proposed private housing developments. Therefore, I present Linda's Lawn!
+It would be insane to try to describe all these amazing places along this ~9 mile stretch down the West Side, but it is an amazing run. One of my favorite places (and my happy place) is Linda's Lawn. Apparently, it is named Linda's Lawn since [Linda](https://www.nycgovparks.org/parks/riverside-park/highlights/19601) was key in allowing for the development of Riverside Park South and reduced the size of proposed private housing developments in the area. Therefore, I present Linda's Lawn!
 
 {:refdef: style="text-align: center;"}
 ![png](/static/Running/linda.jpg)
@@ -87,13 +87,13 @@ And the same Lawn in the fall!
 ![png](/static/Running/linda_fall.jpg)
 {: refdef}
 
-Also this cool metal looking thing near it.
+Also this cool metal looking thing near it that I think was used to load boats or something, but looks super cool.
 
 {:refdef: style="text-align: center;"}
 ![png](/static/Running/rsps.jpg)
 {: refdef}
 
-My first time running down this was the goal, to get to battery park and see the Statue of Liberty in the distance!
+In the Spring of 2018, I ran my first goal along this path: to get to battery park and see the Statue of Liberty in the distance!
 
 {:refdef: style="text-align: center;"}
 ![png](/static/Running/battery.jpg)
@@ -101,13 +101,15 @@ My first time running down this was the goal, to get to battery park and see the
 
 __Running a Marathon:__
 
-So funny story, I actually missed a gym class and made it up with volunteer work cleaning up a small garden and there I met someone who ran the marathon previously through the 9+1 program. As she was telling me about it, I realized that this was going to be the next goal after hitting battery park. This was during the Spring of 2018. I later ran my first race of my 9+1 in order to qualify to run in the marathon a month later:
+So this is a funny story, I actually missed a gym class during the spring semester of 2018 and made it up with volunteer work cleaning up a small garden. There I met someone who had ran the marathon previously through the NYRR's 9+1 program. As she was telling me about it, I realized that running the 9+1 and the NYC Marathon was going to be my next goal after running to battery park. Maybe a month later, I ran my first race of my 9+1 in order to qualify to run in the marathon a month later:
 
 {:refdef: style="text-align: center; transform: rotate(90deg)"}
 ![png](/static/Running/first.jpg)
 {: refdef}
 
-Looking back at it I loved running it, I became intimately familiar with Central Park and all of its funny hills and really loved the running community the NYRR built up. Next year, if I can't run I'm going to volunteer for the marathon! But the 49th NYC Marathon from the start:
+Looking back at it I loved running the 9+1 program, I became intimately familiar with Central Park and all of its funny hills and really loved the running community the NYRR built up. When I was volunteering, I realized how much the runners appreciated the volunteers and how rewarding it was to help support the runners. Next year, if I can't run the marathon, I'm going to volunteer for the marathon!
+
+But the big race itself! The 49th NYC Marathon from the start:
 
 {:refdef: style="text-align: center;"}
 ![png](/static/Running/start.jpg)
@@ -119,4 +121,4 @@ to finish:
 ![png](/static/Running/finish.jpg)
 {: refdef}
 
-Also part of the reason I even finished this was because I had great friends that put up with me and all my little pecadillos cause that's the good stuff :).
+Also part of the reason I even finished this was because I had great friends that showed up and put up with me and all my little pecadillos cause that's the good stuff :).
