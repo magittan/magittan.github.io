@@ -11,7 +11,7 @@ categories: jekyll update
 
 One of the problems in unsupervised clustering is choosing the number of clusters that we are looking for. Specifically when we are using k-means, we need to specify our value of k. One of the most popular methods to choose k is the elbow method. In this approach, we track a quantity called __inertia__. The whole idea of k-means is to minimize this value that we call inertia which is also referred to as __within-cluster sum of squares criterion__. Check out the [clustering page](https://scikit-learn.org/stable/modules/clustering.html) at sklearn to learn more.
 
-$$ \sum\limits_{i=0}^n \min\limits_{\mu_j \in C}(||x_i-\mu_j||^2)$$
+$$\sum\limits_{i=0}^n \min\limits_{\mu_j \in C}(||x_i-\mu_j||^2)$$
 
 
 As we increase our value of k, invariably our inertia goes down. We then look for a value of k where there is a large drop in inertia going from k-1 to k, then a relatively small drop in inertia going from k to k+1. This just indicates that our value of k was really good for decreasing inertia and increasing past this point would be not as useful.
@@ -253,7 +253,7 @@ plt.ylabel("Y Axis")
 ![png](/static/Gap_and_Elbow/output_29_1.png)
 
 
-## Designing $W_k$
+## Designing $$W_k$$
 
 $$W_k = \sum\limits^k_{r=1}\frac{1}{n_r}D_r$$
 
