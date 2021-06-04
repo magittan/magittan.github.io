@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Regret-Based Exploration and Latent Space Clustering in SUNRISE Deep Q-Network Ensembles"
+date:   2021-01-20 8:29:13 -0400
+categories: jekyll update
+---
+
+# Regret-Based Exploration and Latent Space Clustering in SUNRISE Deep Q-Network Ensembles
+
+For a class project, I recently implemented some naive techniques to improve ensembles for Deep Q-Networks (DQNs). The ensemble technique R-SUNRISE borrows on ideas from Decision Theoretical Online Learning (DTOL) algorithms that I've previously used for online ensembles for time series forecasting. The ensemble technique U-SUNRISE attempts to do simple representation learning through allowing specific DQNs to learn specific regions in a high dimensional space (like an image) through learning from specific clusters of images (obtained through PCA + k-means clustering). While it shows some mixed results, it was a fun experimentation for further applications of ensembles. I might need to lay off the ensembles for a bit. [Paper](/static/8100/Regret_Based_Exploration_and_Latent_Space_Clustering_in_SUNRISE_Deep_Q_Network_Ensembles.pdf); [Code](https://github.com/magittan/sunrise).

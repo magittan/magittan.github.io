@@ -71,14 +71,14 @@ choosing_with_respect_to_prob_dist([1,2,3])
 
 
 
-What it does is that given some axis weights with length n, it will sample $0,1,\dots,n-1$ according to the axis weights given. To check this we can look at the following test code example.
+What it does is that given some axis weights with length n, it will sample $$0,1,\dots,n-1$$ according to the axis weights given. To check this we can look at the following test code example.
 
 
 ```python
 a = choosing_with_respect_to_prob_dist([1,2,3],sample_size=10000)
 ```
 
-Setting this up, we see that we should select 0 around $\frac{1}{6}$th of the time, 1 around $\frac{2}{6}=\frac{1}{3}$th of the time, and 2 around $\frac{3}{6}=\frac{1}{2}$th of the time.
+Setting this up, we see that we should select 0 around $$\frac{1}{6}$$th of the time, 1 around $$\frac{2}{6}=\frac{1}{3}$$th of the time, and 2 around $$\frac{3}{6}=\frac{1}{2}$$th of the time.
 
 
 ```python
@@ -181,3 +181,5 @@ plt.xlim(0,3)
 
 
 We see that the probability distributions match the sampling distributions: for Axis 1, we see that we are sampling with the probability distribution (1,2,3,4), for Axis 2, we see that we have a uniform distribution, then for Axis 3, all of the sampling is concentrated on 1,3 and equally distributed on both.
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

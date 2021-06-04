@@ -11,7 +11,7 @@ categories: jekyll update
 
 One of the problems in unsupervised clustering is choosing the number of clusters that we are looking for. Specifically when we are using k-means, we need to specify our value of k. One of the most popular methods to choose k is the elbow method. In this approach, we track a quantity called __inertia__. The whole idea of k-means is to minimize this value that we call inertia which is also referred to as __within-cluster sum of squares criterion__. Check out the [clustering page](https://scikit-learn.org/stable/modules/clustering.html) at sklearn to learn more.
 
-$$\sum\limits_{i=0}^n \min\limits_{\mu_j \in C}(||x_i-\mu_j||^2)$$
+$$ \sum\limits_{i=0}^n \min\limits_{\mu_j \in C}(||x_i-\mu_j||^2) $$
 
 
 As we increase our value of k, invariably our inertia goes down. We then look for a value of k where there is a large drop in inertia going from k-1 to k, then a relatively small drop in inertia going from k to k+1. This just indicates that our value of k was really good for decreasing inertia and increasing past this point would be not as useful.
@@ -454,11 +454,11 @@ plt.ylabel("Internal Sum of Squares")
 
 Now the overall procedure of calculating the gap statistic is the following:
 
-- Cluster the observed data, varying the total number of clusters from $k=1,2,\dots,K$ giving within-dispersion measures $W_k$,$k=1,2,\dots,K$.
-- Generate B reference sets, using the uniform prescription (a) or (b) above, and cluster each one giving within-dispersion measures $W^*_{kb}$, $b=1,2,\dots,B$, $k=1,2,\dots,K$ then we compute the estimated gap statistic $\text{Gap}(k)=(1/B)\sum\limits_{b}\log(W^{*}_{kb})-\log(W_k)$
-- Then we are going to have to have to have $\bar{l} = (1/B)\sum_{b}\log(W^*_{kb})$, computing the standard deviation gives us:
+- Cluster the observed data, varying the total number of clusters from $$k=1,2,\dots,K$$ giving within-dispersion measures $$W_k,k=1,2,\dots,K$$.
+- Generate B reference sets, using the uniform prescription (a) or (b) above, and cluster each one giving within-dispersion measures $$W^*_{kb}$$, $$b=1,2,\dots,B$$, $$k=1,2,\dots,K$$ then we compute the estimated gap statistic $$\text{Gap}(k)=(1/B)\sum\limits_{b}\log(W^{*}_{kb})-\log(W_k)$$
+- Then we are going to have to have to have $$\bar{l} = (1/B)\sum_{b}\log(W^*_{kb})$$, computing the standard deviation gives us:
 $$sd_k = [(1/B)\sum_b[\log(W^*_{kb})-\bar{l}]^2]^{1/2}$$
-then we need to define $s_k = sd_k \sqrt{1+1/B}$. Then we choose the number of clusters via:
+then we need to define $$s_k = sd_k \sqrt{1+1/B}$$. Then we choose the number of clusters via:
 $$\hat{k} = \text{smallest k such that Gap(k)}\geq \text{Gap(k+1)}-s_{k+1}$$
 
 The final step is really needed to establish when the distance between two values is great enough to consider it a drop
@@ -871,3 +871,5 @@ Other methods that are not covered include:
 - Calinski Criterion
 
 These techniques are usually employed in data exploration when trying to understand the structure of the data that is being delt with! I used this for a project for unsupervised clustering where the whole idea was to understand the data and these techinques were really insightful!
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
