@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Columbia Data Science Podcast"
+date:   2021-02-10 18:22:13 -0400
+categories: jekyll update
+---
+
+<p align="center">
+  <img align="center" width="600" height="600" src="/static/Podcast/Podcast_Art.jpg">
+</p>
+
+This year I launched a brief podcast series focused on showcasing insights, experiences, and perspectives from the ground breaking researchers, entrepreneurs, and other members of our Columbia Community specifically regarding topics in Data Science. Over the course of four episodes, we covered four perspectives ranging from professors to industry professionals. Here is a overview of the episodes:
+
+- [Professor Nakul Verma](https://open.spotify.com/episode/1x8Pfiewib3UXW89QAnVt9?si=cPxzRQ_6SeSZcQCmKhi3-w)
+  - Nakul Verma is a professor at Columbia University who works on various aspects of machine learning problems and high dimensional statistics; he is especially interested in exploiting the intrinsic structure of data to design effective learning algorithms. His theoretical work in distance preserving embeddings is currently state of the art. He is also considered one of the best lecturers in the Computer Science Department by his students. In the following interview, we discuss topics including Professor Verma’s career path, his tips and advice to students, his outlook towards ML in the future, as well as a discussion about his work in Distance Preserving Manifolds.
+- [Ryan Janssen](https://open.spotify.com/episode/0NPT5tB1TKbIpXa2WnVU0n?si=Ieo9D7wJQIeRN928H7f6mQ)
+  - Ryan is an entrepreneur and a technology investor. Currently, he is a co-founder/CEO of Zenlytic, a SaaS (Software as a service) business that is building a no-code data science tool. Previously, Ryan worked in growth stage technology, venture capital, and real estate investing with London’s AGC Equity Partners. He has a Master of Science in computational data science from Harvard, an MBA from Oxford, and a BSc in engineering at the University of Alberta.
+- [Professor Shuran Song](https://open.spotify.com/episode/7GvPRia7kPFsR9NONoaQhl?si=WLAatLMARfymbCHA-bilUw)
+  - Shuran Song is an assistant professor at Columbia University whose research focuses on computer vision and robotics. She is especially interested in developing algorithms that enable intelligent systems to learn from their interactions with the physical world, and autonomously acquire the perception and manipulation skills necessary to execute complex tasks and assist people In the following interview, we discuss topics including Professor Song’s career path, her tips and advice to students, her outlook towards RL for robotics in the for the future, as well as a discussion about two of her most recent works.
+- [Jed Dougherty](https://open.spotify.com/episode/7ywQpZENdY0FTM4sWZFICu?si=ViHbs5VpS_SoQ43HfVoJeQ)
+  - Jed Dougherty is VP of Field Engineering at Dataiku. He specializes in helping companies construct enterprise-grade data platforms and has helped teams around the world build successful production infrastructures across the various clouds. He holds a master’s degree from the QMSS Program at Columbia University and Degrees in Mathematics and Political Science from Arizona State.
+
+For the cover art above, I had worked on it for at least two weeks on using neural style transfer (NST). My process began with copying and pasting images into a larger image very simply and then taking that image and styling it with NST (with respect to a reference image from a comic book). Sadly, the cover art was never used, but the process was very effective at making art in general and I thought that this could possibly be a really cool project.
